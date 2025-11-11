@@ -1,0 +1,8 @@
+{
+  "base_url": "https://hh.ru/search/vacancy",
+  "search_query": "ai",
+  "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+  },
+  "output_file": "data/sample.json"
+}
